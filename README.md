@@ -4,7 +4,7 @@ All the code in the project is generated through requests to Openal, you can rea
 
 ## Examples
 
-- [GitHub](https://github.com/davidaganov21/powered-by-openai)
+- [GitHub](https://github.com/davidaganov/powered-by-openai)
 - [Demo](https://aganov.dev/powered-by-openai)
 
 ## Credits

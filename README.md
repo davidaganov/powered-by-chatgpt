@@ -9,4 +9,4 @@ All the code in the project is generated through requests to Openal, you can rea
 
 ## Credits
 
-Author: [David Aganov](https://github.com/davidaganov21) & [OpenAI](https://chat.openai.com/)
+Author: [David Aganov](https://github.com/davidaganov) & [OpenAI](https://chat.openai.com/)

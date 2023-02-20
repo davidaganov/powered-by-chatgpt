@@ -1,6 +1,6 @@
 # The project was generated via OpenAI
 
-All the code in the project is generated through requests to Openal, you can read more in my article on Habr
+All the code in the project is generated through requests to Openal, you can read more in my [article](https://habr.com/ru/post/713532/) on Habr
 
 ## Examples
 

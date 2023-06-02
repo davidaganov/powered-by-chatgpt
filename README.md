@@ -1,6 +1,6 @@
-# The project was generated via OpenAI
+# The project is written with ChatGPT
 
-All the code in the project is generated through requests to Openal, you can read more in my [article](https://habr.com/ru/post/713532/) on Habr
+All code in the project is written through ChatGPT queries, you can read more in my [article](https://habr.com/ru/post/713532/) on Habr
 
 ## Examples
 

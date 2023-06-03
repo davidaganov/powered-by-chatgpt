@@ -149,6 +149,17 @@ export class App extends React.Component<Props, State> {
         <footer className={styles.footer}>
           <p className={styles.footer_text}>Copyright © 2021 David Aganov</p>
         </footer>
+
+        {/* -- Author Code -- */}
+
+        <a
+          href="https://habr.com/ru/articles/713532/"
+          className={styles.article}
+        >
+          Статья на Habr
+        </a>
+
+        {/* ---- */}
       </div>
     );
   }
